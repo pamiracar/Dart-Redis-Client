@@ -1,1 +1,1 @@
-Dart Redis Database Client for CRUD operations
+Dart Redis Database Client for simple CRUD operations
